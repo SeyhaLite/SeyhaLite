@@ -1,0 +1,12 @@
+torch
+torchaudio
+whisper
+pydub
+scipy
+phonemizer
+numpy
+librosa
+TTS
+flask
+flask-cors
+python-telegram-bot
